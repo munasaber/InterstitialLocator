@@ -1,0 +1,2 @@
+casmutils_interstitial_locator_include_HEADERS=\
+						  plugins/InterstitialLocator/include/interstitial_locator.hpp
