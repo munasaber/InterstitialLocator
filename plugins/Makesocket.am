@@ -1,0 +1,4 @@
+
+include plugins/InterstitialLocator/Makesocket.am
+include plugins/interstitial_locator/Makesocket.am
+include plugins/cluster_finder/Makesocket.am

@@ -1,0 +1,10 @@
+TESTS+=check_interstitial_locator
+check_PROGRAMS += check_interstitial_locator
+check_interstitial_locator_SOURCES =\
+			 plugins/interstitial_locator/tests/interstitial_locator_tests.cpp\
+			 tests/autotools.hh
+check_clusterography_cluster_finder_LDADD=\
+					libgtest.la\
+					libcasmutils-clusterography.la\
+					libcasmutils.la\
+					libcasmblob.la
