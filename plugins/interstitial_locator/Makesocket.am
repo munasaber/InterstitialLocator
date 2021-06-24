@@ -1,3 +1,0 @@
-include $(srcdir)/plugins/interstitial_locator/lib/Makemodule.am
-include $(srcdir)/plugins/interstitial_locator/include/Makemodule.am
-include $(srcdir)/plugins/interstitial_locator/tests/Makemodule.am
