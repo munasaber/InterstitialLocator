@@ -1,0 +1,6 @@
+{
+	"interstitial_coordination": {4, 5, 6},
+	"bond_length_maximum": {3.0, 3.0, 5.0},
+	"bond_length_minimum": {1.6, 1.6, 1.6},
+	"allowed_sites": ["0.0000000", "0.0000000", "0.0000000", "A"] 
+}

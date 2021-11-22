@@ -1,0 +1,9 @@
+{
+	"orbit_branch_specs" :
+	{	
+	"0" : {"max_length" : 5}, 
+	"1" : {"max_length" : 5}, 
+	"2" : {"max_length" : 5}
+	},	
+	"site_filter" : ["0.00000000", "0.00000000", "0.00000000", "A"]
+}
