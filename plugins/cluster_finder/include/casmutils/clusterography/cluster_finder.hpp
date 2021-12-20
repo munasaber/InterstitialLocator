@@ -71,7 +71,7 @@ public:
     std::vector<Cluster> get_clusters() const { return this->m_clusters; }
 
     // Returns the prototype of the orbit - Equivalent to 0th element in the orbit
-    Cluster prototpye() const { return this->m_clusters[0]; }
+    Cluster prototype() const { return this->m_clusters[0]; }
 
     // Returns the number of clusters in the orbit
     int size() const { return this->m_clusters.size(); }
